@@ -4,7 +4,7 @@ A Python script to check the availability of GitHub usernames. The script genera
 
 Available Usernames (as of 09/22/2024):
 
-ajnl
+
 llho
 ljaj
 lhjn
